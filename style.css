@@ -7,7 +7,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* Pour empêcher le défilement de l'image */
+  background-attachment: fixed; 
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ul, li {
@@ -16,7 +16,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
 }
 
 main {
-  background-image: url("pexels-rfstudio-3621104.jpg"); 
+  background-image: url("images_et_videos/pexels-rgr-g-1302514.jpg"); 
   background-size: cover;
   background-position: center;
   padding: 50px 0;
@@ -26,7 +26,7 @@ main {
 main .container {
   background-color: #fff;
   padding: 20px;
-  border-radius: 8px; /* Facultatif : ajoute une bordure arrondie à la boîte */
+  border-radius: 8px; 
 }
 
 header, footer {
